@@ -6,14 +6,7 @@ There are a total of 8 tasks out of which 2 are optional. The whole idea of the 
 
 So, I created different folders where I will be explaining about each tasks seperately.
 
-As it is mentioned to take one FOSS organization which meets the requirements (atleast 5 repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with [FOSSASIA](https://github.com/fossasia/).
-
-The 5 repostories on which I am performing the analysis are
-1. https://github.com/fossasia/phimpme-android
-2. https://github.com/fossasia/badgeyay
-3. https://github.com/fossasia/susi_server
-4. https://github.com/fossasia/susi_android
-5. https://github.com/fossasia/open-event-server
+As it is mentioned to take one FOSS organization which meets the requirements (atleast 5 repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with [elasticsearch/elasticsearch-py](https://github.com/elasticsearch/elasticsearch-py).
 
 I will be provinding the [MyBinder](https://mybinder.org/) links in the folders too.
 
