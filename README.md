@@ -2,6 +2,8 @@
 
 There are a total of 8 tasks out of which 2 are optional. The whole idea of the project can be found here, [#81](https://github.com/chaoss/wg-gmd/issues/81)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vchrombie/chaoss-microtasks/master)
+
 ## Microtasks
 
 So, I created different folders where I will be explaining about each tasks seperately.
@@ -16,7 +18,6 @@ I will be provinding the [MyBinder](https://mybinder.org/) links in the folders 
 </br>
 Use this <a href="https://github.com/chaoss/wg-gmd/blob/master/implementations/Code_Changes-Git.ipynb">notebook implementing the Code_Changes metric</a> (<a href="https://mybinder.org/v2/gh/chaoss/wg-gmd/master?filepath=implementations/Code_Changes-Git.ipynb">see it in MyBinder</a>) as an example of how to collect the data, producing a single JSON file per data source, with all items (commits, issues,  pull/merge requests) in it. Produce one notebook per data source (git, GitHub/GitLab issues, GitHub pull requests / GitLab merge requests) showing a summary of the contents of that file (number of items in it, and number of different identities in it counting authors/committers for git, submitters for issues and pull/merge requests). This microtask is mandatory, to show that you can retrieve data and produde a notebook showing it. In each notebook, include also the list of repositories retrieved, and the date of retrieval, using data available in the JSON file.
 </details>
-
 
 ### Microtask 1
 <details>
