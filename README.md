@@ -16,7 +16,7 @@ I will be provinding the [MyBinder](https://mybinder.org/) links in the folders 
 
 Produce a notebook which collects the data of a project, retrieved by Perceval, and show a summary of contents of the file.
 
-Solution: [microtask_0](microtask_0/)
+Solution: [microtask-0](microtask-0/)
 
 ### Microtask 1
 
