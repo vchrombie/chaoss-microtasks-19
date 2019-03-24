@@ -22,6 +22,10 @@ Solution: [microtask-0](microtask-0/)
 
 Produce a notebook showing (and producing) a list with the activity per quarter: number of new committers, submitters of issues, and submitters of pull/merge requests, number of items (commits, issues, pull/merge requests), number of repositories with new items (all of this per quarter) as a table and as a CSV file using plain python3 (no pandas).
 
+Solution: [microtask-1](microtask-1/)
+
+CSV file: [elasticsearch-py.csv](microtask-1/elasticsearch-py.csv)
+
 ### Microtask 2
 
 Same as [microtask-1](https://github.com/vchrombie/chaoss-microtasks#microtask-1), but now using [pandas](http://pandas.pydata.org/).
