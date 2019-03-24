@@ -4,6 +4,13 @@ There are a total of 8 tasks out of which 2 are optional. The whole idea of the 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vchrombie/chaoss-microtasks/master)
 
+
+## Get Started 
+For performing the analysis, you need the data source. Run the `sh.sh` file so that the perceval tool will scrape the required data into `elsticsearch-py.json`.
+```
+./sh.sh
+```
+
 ## Microtasks
 
 So, I created different folders where I will be explaining about each tasks seperately.
@@ -23,8 +30,6 @@ Solution: [microtask-0](microtask-0/)
 Produce a notebook showing (and producing) a list with the activity per quarter: number of new committers, submitters of issues, and submitters of pull/merge requests, number of items (commits, issues, pull/merge requests), number of repositories with new items (all of this per quarter) as a table and as a CSV file using plain python3 (no pandas).
 
 Solution: [microtask-1](microtask-1/)
-
-CSV file: [elasticsearch-py.csv](microtask-1/elasticsearch-py.csv)
 
 ### Microtask 2
 
