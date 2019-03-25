@@ -4,20 +4,13 @@ There are a total of 8 tasks out of which 2 are optional. The whole idea of the 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vchrombie/chaoss-microtasks/master)
 
-
-## Get Started 
-For performing the analysis, you need the data source. Run the `sh.sh` file so that the perceval tool will scrape the required data into `elsticsearch-py.json`.
-```
-./sh.sh
-```
-
 ## Microtasks
 
 So, I created different folders where I will be explaining about each tasks seperately.
 
 As it is mentioned to take one FOSS organization which meets the requirements (atleast 5 repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with the project [elasticsearch/elasticsearch-py](https://github.com/elasticsearch/elasticsearch-py).
 
-I will be provinding the [MyBinder](https://mybinder.org/) links in the folders too.
+I provinded the [MyBinder](https://mybinder.org/) link too, if you want to see the notebooks live on your browser. Just click on the mybinder badge that is located on the top of the README.
 
 ### Microtask 0
 
@@ -66,6 +59,26 @@ Contributions to [GMD Working Group](https://github.com/chaoss/wg-gmd/).
 Improved the README, fixed typos and broken links. [#107](https://github.com/chaoss/wg-gmd/pull/107), [#106](https://github.com/chaoss/wg-gmd/pull/106)
 
 ----
+
+## To do these analysis locally, follow these instructions:
+1. Clone this repository
+```
+git clone https://github.com/vchrombie/chaoss-microtasks/
+```
+2. Install Perceval library. We need the data source to perform these analysis. Perceval helps us to get the required data. If you want, you can install it in virtual environment. I am giving out the link here, [Using Virtual Env](https://docs.python.org/3/tutorial/venv.html). Activate the venv and install the module.
+```
+pip3 install perceval
+``` 
+3. Run the `sh.sh` file so that the perceval tool will scrape the required data into the respective data source files. All the perceval commands required to get the relevant data are written in the shell script. I like automating things. :)
+```
+./sh.sh
+```
+4. You need [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) to run the ipython notebook files. It is better to install [Ananconda](https://docs.anaconda.com/anaconda/install/linux/) so that you can manage the python libraries.
+5. Once you have Anaconda installed on your system, you can use the anaconda-navigator to lauch the Jupter Notebooks application. You need to browse into this directory and load the `ipynb` file. That's it you are ready to start with the analysis. 
+
+Note: If you are not much familiar with Jupyter Notebooks, you can have a look at this link, [Beginner's Guide for Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html).
+
+---
 
 ## References
 - [Chapter on Perceval](https://chaoss.github.io/grimoirelab-tutorial/perceval/intro.html)

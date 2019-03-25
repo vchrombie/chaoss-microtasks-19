@@ -1,3 +1,3 @@
-perceval git --json-line https://github.com/elastic/elasticsearch-py >> elasticsearch-py.json
-perceval github elastic elasticsearch-py --json-line --category pull_request --sleep-for-rate -t aaa8760cfb375255e741c6d49308046c379aedeb >> elasticsearch-py.json
-perceval github elastic elasticsearch-py --json-line --category issue --sleep-for-rate -t aaa8760cfb375255e741c6d49308046c379aedeb >> elasticsearch-py.json
+perceval git --json-line https://github.com/elastic/elasticsearch-py >> data/elasticsearch-py.json
+perceval github elastic elasticsearch-py --json-line --category pull_request --sleep-for-rate -t aaa8760cfb375255e741c6d49308046c379aedeb >> data/elasticsearch-py.json
+perceval github elastic elasticsearch-py --json-line --category issue --sleep-for-rate -t aaa8760cfb375255e741c6d49308046c379aedeb >> data/elasticsearch-py.json
