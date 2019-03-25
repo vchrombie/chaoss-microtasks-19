@@ -1,4 +1,4 @@
-Quarter,Commits,PullRequests,Issues,Committers,IssueSubmitters,PRSubmitters
+Quarter,# Commits,# PullRequests,# Issues,# NewCommitters,# NewIssueSubmitters,# NewPRSubmitters
 Q1 2013,0,0,0,0,0,0
 Q2 2013,78,0,0,1,0,0
 Q3 2013,154,3,6,2,2,5
