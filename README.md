@@ -28,6 +28,8 @@ Solution: [microtask-1](microtask-1/)
 
 Same as [microtask-1](https://github.com/vchrombie/chaoss-microtasks#microtask-1), but now using [pandas](http://pandas.pydata.org/).
 
+Solution: [microtask-2](microtask-2/)
+
 ### Microtask 3
 
 Produce a notebook with charts showing the distribution of time-to-close for issues already closed, and opened during the last year, for each of the repositories analyzed, and for all of them together. Use Pandas for this, and the Python charting library of your choice (as long as it is a FOSS module).
@@ -56,7 +58,26 @@ Contributions to any of the [GrimoireLab tools](https://github.com/chaoss/grimoi
 
 Contributions to [GMD Working Group](https://github.com/chaoss/wg-gmd/).
 
-Improved the README, fixed typos and broken links. [#107](https://github.com/chaoss/wg-gmd/pull/107), [#106](https://github.com/chaoss/wg-gmd/pull/106)
+Issues raised: 
+- [closed] Link to the LICENSE file is broken. [#105](https://github.com/chaoss/wg-gmd/issues/105)
+
+Pull Requests sent:
+- [merged] fixed the broken link for LICENSE [#106](https://github.com/chaoss/wg-gmd/pull/106)
+- [merged] Fixed typos in documentation. [#107](https://github.com/chaoss/wg-gmd/pull/107)
+- [merged] Grammatical Improvements [#112](https://github.com/chaoss/wg-gmd/pull/112)
+- [open] added the CoC [#111](https://github.com/chaoss/wg-gmd/pull/111)
+
+
+### Contributions to the other CHAOSS repositories
+
+[chaoss/governance](https://github.com/chaoss/governance)
+- [merged] fix minor typos in CoC [#103](https://github.com/chaoss/governance/pull/103)
+
+[chaoss/wg-diversity-inclusion](https://github.com/chaoss/wg-diversity-inclusion)
+- [merged] updated CoC with the changes [#171](https://github.com/chaoss/wg-diversity-inclusion/pull/171)
+
+[chaoss/wg-value](https://github.com/chaoss/wg-value)
+- [merged] improvements in CoC and CONTRIBUTING.md [#5](https://github.com/chaoss/wg-value/pull/5)
 
 ----
 
