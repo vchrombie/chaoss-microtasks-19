@@ -2,6 +2,8 @@
 
 Contributions to [GMD Working Group](https://github.com/chaoss/wg-gmd/).
 
+#### [chaoss/wg-gmd/](https://github.com/chaoss/wg-gmd/)
+
 **Issues** discussions and reporting bugs:
 - `closed` Link to the LICENSE file is broken [#105](https://github.com/chaoss/wg-gmd/issues/105)
 
