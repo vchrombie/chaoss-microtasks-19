@@ -1,83 +1,34 @@
 # chaoss-microtasks
 
-There are a total of 8 tasks out of which 2 are optional. The whole idea of the project can be found here, [#81](https://github.com/chaoss/wg-gmd/issues/81)
+This repository contains the details about the microtasks for the GSoC project idea, **Implementing CHAOSS metrics using Perceval**. The whole idea of the project can be found here, [#81](https://github.com/chaoss/wg-gmd/issues/81). 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vchrombie/chaoss-microtasks/master)
 
+I provinded the [MyBinder](https://mybinder.org/) link too, if you want to see the notebooks live on your browser. Just click on the mybinder badge that is located above.
+
+## About Me
+
+Myself, Venu Vardhan, a third year undergraduate from Amrita Vishwa Vidyapeetham, Amritapuri.
+
 ## Microtasks
 
-So, I created different folders where I will be explaining about each tasks seperately.
+There are a total of 9 tasks out of which 2 are optional. So, I created different folders where I will be explaining about each tasks seperately.
 
-As it is mentioned to take one FOSS organization which meets the requirements (atleast 5 repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with the project [elasticsearch/elasticsearch-py](https://github.com/elasticsearch/elasticsearch-py).
+As it is mentioned to take a FOSS organization which meets the requirements (repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with the project [elasticsearch/elasticsearch-py](https://github.com/elasticsearch/elasticsearch-py) for the first four microtasks(0, 1, 2, 3). And for the microtasks(4, 5), I would go with five [FOSSASIA](https://github.com/fossasia/)'s projects, [open-event-server](https://github.com/fossasia/open-event-server), [susi_android](https://github.com/fossasia/susi_android), [susi_server](https://github.com/fossasia/susi_server), [phimpme-android](https://github.com/fossasia/phimpme-android) and [badgeyay](https://github.com/fossasia/badgeyay).
 
-I provinded the [MyBinder](https://mybinder.org/) link too, if you want to see the notebooks live on your browser. Just click on the mybinder badge that is located on the top of the README.
+## List of microtasks
+- [x] [microtask-0](microtask-0/)
+- [x] [microtask-1](microtask-1/)
+- [x] [microtask-2](microtask-2/)
+- [ ] [microtask-3](microtask-3/)
+- [ ] [microtask-4](microtask-4/)
+- [ ] [microtask-5](microtask-5/)
+- [ ] [microtask-6](microtask-6/)
+> optional
+- [x] [microtask-7](microtask-7/)
+- [x] [microtask-8](microtask-8/)
 
-### Microtask 0
-
-Produce a notebook which collects the data of a project, retrieved by Perceval, and show a summary of contents of the file.
-
-Solution: [microtask-0](microtask-0/)
-
-### Microtask 1
-
-Produce a notebook showing (and producing) a list with the activity per quarter: number of new committers, submitters of issues, and submitters of pull/merge requests, number of items (commits, issues, pull/merge requests), number of repositories with new items (all of this per quarter) as a table and as a CSV file using plain python3 (no pandas).
-
-Solution: [microtask-1](microtask-1/)
-
-### Microtask 2
-
-Same as [microtask-1](https://github.com/vchrombie/chaoss-microtasks#microtask-1), but now using [pandas](http://pandas.pydata.org/).
-
-Solution: [microtask-2](microtask-2/)
-
-### Microtask 3
-
-Produce a notebook with charts showing the distribution of time-to-close for issues already closed, and opened during the last year, for each of the repositories analyzed, and for all of them together. Use Pandas for this, and the Python charting library of your choice (as long as it is a FOSS module).
-
-### Microtask 4
-
-Produce a listing of repositories, as a table and as CSV file, with the number of commits authored, issues opened, and pull/merge requests opened, during the last three months, ordered by the total number (commits plus issues plus pull requests). Use plain Python3 (eg, no Pandas) for this.
-
-### Microtask 5
-
-Same as [microtask-4](https://github.com/vchrombie/chaoss-microtasks#microtask-4), but now using [pandas](http://pandas.pydata.org/).
-
-### Microtask 6
-
-Perform any other analysis you may find interesting, based on the Perceval data you collected.
-
-----
-
-**Optional Tasks**
-
-### Microtask 7
-
-Contributions to any of the [GrimoireLab tools](https://github.com/chaoss/grimoirelab).
-
-### Microtask 8
-
-Contributions to [GMD Working Group](https://github.com/chaoss/wg-gmd/).
-
-Issues raised: 
-- [closed] Link to the LICENSE file is broken. [#105](https://github.com/chaoss/wg-gmd/issues/105)
-
-Pull Requests sent:
-- [merged] fixed the broken link for LICENSE [#106](https://github.com/chaoss/wg-gmd/pull/106)
-- [merged] Fixed typos in documentation. [#107](https://github.com/chaoss/wg-gmd/pull/107)
-- [merged] Grammatical Improvements [#112](https://github.com/chaoss/wg-gmd/pull/112)
-- [open] added the CoC [#111](https://github.com/chaoss/wg-gmd/pull/111)
-
-
-### Contributions to the other CHAOSS repositories
-
-[chaoss/governance](https://github.com/chaoss/governance)
-- [merged] fix minor typos in CoC [#103](https://github.com/chaoss/governance/pull/103)
-
-[chaoss/wg-diversity-inclusion](https://github.com/chaoss/wg-diversity-inclusion)
-- [merged] updated CoC with the changes [#171](https://github.com/chaoss/wg-diversity-inclusion/pull/171)
-
-[chaoss/wg-value](https://github.com/chaoss/wg-value)
-- [merged] improvements in CoC and CONTRIBUTING.md [#5](https://github.com/chaoss/wg-value/pull/5)
+Apart from these, I have contributed to some other CHOASS projects, you can view them here, [Other Contributions](microtasks-6/othercontributions.md).
 
 ----
 
