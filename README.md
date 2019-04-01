@@ -28,7 +28,7 @@ As it is mentioned to take a FOSS organization which meets the requirements (rep
 - [x] [microtask-7](microtask-7/)
 - [x] [microtask-8](microtask-8/)
 
-Apart from these, I have contributed to some other CHOASS projects, you can view them here, [Other Contributions](microtask-6/othercontributions.md).
+Apart from these, I have contributed to some other CHOASS projects, you can view them here, [othercontributions.md](othercontributions.md).
 
 ----
 
