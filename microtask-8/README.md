@@ -12,5 +12,5 @@ Contributions to [GMD Working Group](https://github.com/chaoss/wg-gmd/).
 - `merged` Fixed typos in documentation [#107](https://github.com/chaoss/wg-gmd/pull/107)
 - `merged` Grammatical Improvements [#112](https://github.com/chaoss/wg-gmd/pull/112)
 - `merged` added the CoC [#111](https://github.com/chaoss/wg-gmd/pull/111)
-
+- `merged` fixed few minor typos [130](https://github.com/chaoss/wg-gmd/pull/130)
 

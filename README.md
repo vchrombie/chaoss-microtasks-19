@@ -14,21 +14,21 @@ Myself, Venu Vardhan, a third year undergraduate from Amrita Vishwa Vidyapeetham
 
 There are a total of 9 tasks out of which 2 are optional. So, I created different folders where I will be explaining about each tasks seperately.
 
-As it is mentioned to take a FOSS organization which meets the requirements (repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with the project [elasticsearch/elasticsearch-py](https://github.com/elasticsearch/elasticsearch-py) for the first four microtasks(0, 1, 2, 3). And for the microtasks(4, 5), I would go with five [FOSSASIA](https://github.com/fossasia/)'s projects, [open-event-server](https://github.com/fossasia/open-event-server), [susi_android](https://github.com/fossasia/susi_android), [susi_server](https://github.com/fossasia/susi_server), [phimpme-android](https://github.com/fossasia/phimpme-android) and [badgeyay](https://github.com/fossasia/badgeyay).
+As it is mentioned to take a FOSS organization which meets the requirements (repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with the project [elasticsearch/elasticsearch-py](https://github.com/elasticsearch/elasticsearch-py) for the first four microtasks(0, 1, 2). And for the microtasks(3, 4, 5), I would go with five [FOSSASIA](https://github.com/fossasia/)'s projects, [open-event-server](https://github.com/fossasia/open-event-server), [susi_android](https://github.com/fossasia/susi_android), [susi_server](https://github.com/fossasia/susi_server), [phimpme-android](https://github.com/fossasia/phimpme-android) and [badgeyay](https://github.com/fossasia/badgeyay).
 
 ## List of microtasks
 - [x] [microtask-0](microtask-0/)
 - [x] [microtask-1](microtask-1/)
 - [x] [microtask-2](microtask-2/)
-- [ ] [microtask-3](microtask-3/)
-- [ ] [microtask-4](microtask-4/)
-- [ ] [microtask-5](microtask-5/)
+- [x] [microtask-3](microtask-3/)
+- [x] [microtask-4](microtask-4/)
+- [x] [microtask-5](microtask-5/)
 - [ ] [microtask-6](microtask-6/)
 > optional
 - [x] [microtask-7](microtask-7/)
 - [x] [microtask-8](microtask-8/)
 
-Apart from these, I have contributed to some other CHOASS projects, you can view them here, [othercontributions.md](othercontributions.md).
+Apart from these, I have contributed to some other CHAOSS projects, you can view them here, [othercontributions.md](othercontributions.md).
 
 ----
 

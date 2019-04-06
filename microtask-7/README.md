@@ -9,6 +9,6 @@ Contributions to any of the [GrimoireLab tools](https://github.com/chaoss/grimoi
 - `open` [doc] Update info about categories returned by Perceval [#494](https://github.com/chaoss/grimoirelab-perceval/issues/494)
 
 **Pull Requests** fixing issues and code reviews:
-- `open` Update the information about github backend [#502](https://github.com/chaoss/grimoirelab-perceval/pull/502)
+- `open` [doc] Update documentation for github and gitlab backends [#502](https://github.com/chaoss/grimoirelab-perceval/pull/502)
 
 

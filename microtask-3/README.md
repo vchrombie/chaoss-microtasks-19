@@ -8,10 +8,10 @@ Produce a notebook with charts showing the distribution of time-to-close for iss
 
 | Repository | Chart |
 | --- | --- |
-| [badgeyay](https://github.com/fossasia/badgeyay) | ![badgeyay](badgeyay.png) |
-| [open-event-server](https://github.com/fossasia/open-event-server) | ![open-event-server](open-event-server.png) |
-| [phimpme-android](https://github.com/fossasia/phimpme-android) | ![phimpme-android](phimpme-android.png) |
-| [susi_android](https://github.com/fossasia/susi_android) | ![susi_android](susi_android.png) |
-| [susi_server](https://github.com/fossasia/susi_server) | ![susi_server](susi_server.png) |
+| [fossasia/badgeyay](https://github.com/fossasia/badgeyay) | ![badgeyay](badgeyay.png) |
+| [fossasia/open-event-server](https://github.com/fossasia/open-event-server) | ![open-event-server](open-event-server.png) |
+| [fossasia/phimpme-android](https://github.com/fossasia/phimpme-android) | ![phimpme-android](phimpme-android.png) |
+| [fossasia/susi_android](https://github.com/fossasia/susi_android) | ![susi_android](susi_android.png) |
+| [fossasia/susi_server](https://github.com/fossasia/susi_server) | ![susi_server](susi_server.png) |
 
 ## Explanation
