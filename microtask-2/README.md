@@ -4,9 +4,9 @@ Same as [microtask-1](https://github.com/vchrombie/chaoss-microtasks#microtask-1
 
 ## Solution
 
-[Link to the Notebook](https://github.com/vchrombie/chaoss-microtasks/blob/master/microtask-2/microtask-2.ipynb)
+[Link to the Notebook](microtask-2.ipynb)
 
-CSV file: [elasticsearch-py.csv](microtask-2/elasticsearch-py.csv)
+CSV file: [elasticsearch-py.csv](elasticsearch-py.csv)
 
 ![mt2](../images/mt2.png)
 

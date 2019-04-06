@@ -4,7 +4,7 @@ Produce a notebook with charts showing the distribution of time-to-close for iss
 
 ## Solution
 
-[Link to the Notebook](https://github.com/vchrombie/chaoss-microtasks/blob/master/microtask-3/microtask-3.ipynb)
+[Link to the Notebook](microtask-3.ipynb)
 
 | Repository | Chart |
 | --- | --- |

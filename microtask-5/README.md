@@ -4,9 +4,9 @@ Same as [microtask-4](https://github.com/vchrombie/chaoss-microtasks#microtask-4
 
 ## Solution
 
-[Link to the Notebook](https://github.com/vchrombie/chaoss-microtasks/blob/master/microtask-5/microtask-5.ipynb)
+[Link to the Notebook](microtask-5.ipynb)
 
-CSV file: [results.csv](microtask-5/results.csv)
+CSV file: [results.csv](results.csv)
 
 ![mt5](../images/mt5.png)
 

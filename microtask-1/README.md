@@ -4,9 +4,9 @@ Produce a notebook showing (and producing) a list with the activity per quarter:
 
 ## Solution
 
-[Link to the Notebook](https://github.com/vchrombie/chaoss-microtasks/blob/master/microtask-1/microtask-1.ipynb)
+[Link to the Notebook](microtask-1.ipynb)
 
-CSV file: [elasticsearch-py.csv](microtask-1/elasticsearch-py.csv)
+CSV file: [elasticsearch-py.csv](elasticsearch-py.csv)
 
 ![mt1](../images/mt1.png)
 

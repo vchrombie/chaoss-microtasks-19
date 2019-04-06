@@ -4,9 +4,9 @@ Produce a listing of repositories, as a table and as CSV file, with the number o
 
 ## Solution
 
-[Link to the Notebook](https://github.com/vchrombie/chaoss-microtasks/blob/master/microtask-4/microtask-4.ipynb)
+[Link to the Notebook](microtask-4.ipynb)
 
-CSV file: [results.csv](microtask-4/results.csv)
+CSV file: [results.csv](results.csv)
 
 ![mt4](../images/mt4.png)
 
