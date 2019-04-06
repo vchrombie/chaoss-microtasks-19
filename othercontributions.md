@@ -16,6 +16,7 @@ Contributions to other projects of CHAOSS.
 
 **Pull Requests** fixing issues and code reviews:
 - `merged` updated info about the Value WG [#143](https://github.com/chaoss/website/pull/143)
+- `merged` [meeting] Updated the changed schedule of wg-gmd meeting [#147](https://github.com/chaoss/website/pull/147)
 
 #### [chaoss/wg-value](https://github.com/chaoss/wg-value/)
 

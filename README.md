@@ -4,7 +4,7 @@ This repository contains the details about the microtasks for the GSoC project i
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vchrombie/chaoss-microtasks/master)
 
-I provinded the [MyBinder](https://mybinder.org/) link too, if you want to see the notebooks live on your browser. Just click on the mybinder badge that is located above.
+I provided the [MyBinder](https://mybinder.org/) link too, if you want to see the notebooks live on your browser. Just click on the mybinder badge that is located above.
 
 ## About Me
 
