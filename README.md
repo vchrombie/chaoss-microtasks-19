@@ -30,6 +30,8 @@ As it is mentioned to take a FOSS organization which meets the requirements (rep
 
 Apart from these, I have contributed to some other CHAOSS projects, you can view them here, [othercontributions.md](othercontributions.md).
 
+If you have any questions regarding the micro-tasks, you can report them to me here. [Help](https://github.com/vchrombie/chaoss-microtasks/issues/1)
+
 ----
 
 ## To do these analysis locally, follow these instructions:
