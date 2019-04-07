@@ -8,7 +8,9 @@ I provided the [MyBinder](https://mybinder.org/) link too, if you want to see th
 
 ## About Me
 
-Myself, Venu Vardhan, a third year undergraduate from Amrita Vishwa Vidyapeetham, Amritapuri.
+I am a third year undergraduate pursuing my Bachelors in Computer Science and Engineering from Amrita Vishwa Vidyapeetham, Kollam, India. My areas of interest are Data Science. I am proficient in python and R. I am a member of FOSS@Amrita, open source club in our campus. I am the head the Data Science Team, here in my club.
+
+I have been participating and resolving issues in the CHAOSS repositories for almost around one and half month and been actively participating in the weekly community video calls. You can find my project proposal here, [CHAOSS Proposal : Venu](https://docs.google.com/document/d/178oVQ45ORP78bh6BocswUpHVOnPaCyzCAqa4yz-An-I/edit?usp=sharing).
 
 ## Microtasks
 
@@ -30,7 +32,7 @@ As it is mentioned to take a FOSS organization which meets the requirements (rep
 
 Apart from these, I have contributed to some other CHAOSS projects, you can view them here, [othercontributions.md](othercontributions.md).
 
-If you have any questions regarding the micro-tasks, you can report them to me here. [Help](https://github.com/vchrombie/chaoss-microtasks/issues/1)
+If you have any questions regarding the micro-tasks, you can report them to me here. [Issues](https://github.com/vchrombie/chaoss-microtasks/issues/)
 
 ----
 
