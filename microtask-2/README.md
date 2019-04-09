@@ -2,6 +2,8 @@
 
 Same as [microtask-1](https://github.com/vchrombie/chaoss-microtasks/microtask-1), but now using [pandas](http://pandas.pydata.org/).
 
+**NOTE**: I have two files in each microtask folder, `microtask-#-online.ipynb` which uses elastic projects and `microtask-#.ipynb` which uses FOSSASIA projects as data source. If you are checking the code in MyBinder, I suggest you to open `microtask-#-online.ipynb` file as you can run the code. If you are opening in GitHub web interface, I suggest you to open `microtask-#.ipynb` so that you can see the analysis of 5 repositories.
+
 ## Solution
 
 [Link to the Notebook](microtask-2.ipynb)
