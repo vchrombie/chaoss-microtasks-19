@@ -16,7 +16,13 @@ I have been participating and resolving issues in the CHAOSS repositories for al
 
 There are a total of 9 tasks out of which 2 are optional. So, I created different folders where I will be explaining about each tasks seperately.
 
-As it is mentioned to take a FOSS organization which meets the requirements (repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with the project [elasticsearch/elasticsearch-py](https://github.com/elasticsearch/elasticsearch-py) for the first four microtasks(0, 1, 2). And for the microtasks(3, 4, 5), I would go with five [FOSSASIA](https://github.com/fossasia/)'s projects, [open-event-server](https://github.com/fossasia/open-event-server), [susi_android](https://github.com/fossasia/susi_android), [susi_server](https://github.com/fossasia/susi_server), [phimpme-android](https://github.com/fossasia/phimpme-android) and [badgeyay](https://github.com/fossasia/badgeyay).
+As it is mentioned to take a FOSS organization which meets the requirements (repositories with 1000 commits, 200 issues, 2000 pull requests), I would like to go with the project [elasticsearch/elasticsearch-py](https://github.com/elasticsearch/elasticsearch-py) for the first microtasks(0). 
+
+I selected FOSSASIA projects for analyzing. The project are [open-event-server](https://github.com/fossasia/open-event-server), [susi_android](https://github.com/fossasia/susi_android), [susi_server](https://github.com/fossasia/susi_server), [phimpme-android](https://github.com/fossasia/phimpme-android) and [badgeyay](https://github.com/fossasia/badgeyay). 
+
+**NOTE**: The data source of the FOSSASIA projects are too large. I uploaded them using [Git LFS](https://git-lfs.github.com/). But they cannot be accessible online, i.e [MyBinder](https://mybinder.org/) whereas elasticsearch-py data source is not heavy. You can see all the data source retieved by Perceval in [data/](data/) folder.
+
+**NOTE**: I have two files in each microtask folder, `microtask-#-online.ipynb` which uses elastic projects and `microtask-#.ipynb` which uses FOSSASIA projects as data source. If you are checking the code in MyBinder, I suggest you to open `microtask-#-online.ipynb` file as you can run the code. If you are opening in GitHub web interface, I suggest you to open `microtask-#.ipynb` so that you can see the analysis of 5 repositories.
 
 ## List of microtasks
 - [x] [microtask-0](microtask-0/)

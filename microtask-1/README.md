@@ -6,7 +6,7 @@ Produce a notebook showing (and producing) a list with the activity per quarter:
 
 [Link to the Notebook](microtask-1.ipynb)
 
-CSV file: [elasticsearch-py.csv](elasticsearch-py.csv)
+CSV file: [csv_files/badgeyay.csv](csv_files/badgeyay.csv)
 
 ![mt1](../images/mt1.png)
 
