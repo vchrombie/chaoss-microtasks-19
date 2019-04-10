@@ -10,7 +10,7 @@
 ### Issue_Resolution
 
 | Metric | Line Number Reference |
-|: --- | --- |
+| --- | --- |
 | Closed Issues | [#L202 ](https://github.com/vchrombie/chaoss-microtasks/blob/master/microtask-6/issue-structure.json#L202) |
 | Open Issues | [#L202 ](https://github.com/vchrombie/chaoss-microtasks/blob/master/microtask-6/issue-structure.json#L202) |
 | Open Issue Age | difference between the [#L202 ](https://github.com/vchrombie/chaoss-microtasks/blob/master/microtask-6/issue-structure.json#L202) `created_at` and current date |
