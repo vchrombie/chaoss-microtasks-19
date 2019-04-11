@@ -1,6 +1,6 @@
 #!/bin/sh
  
-GITHUB_TOKEN="f362cedccd5f8e4c830d016d5dc829ba450313d7"
+GITHUB_TOKEN="4a9471fa4b88d7a98448a7e76df97b64a0d5db8d"
 # replace the above key with your github personal access key.
 # i know a bit of security and deleted the above token. :P 
 
@@ -30,4 +30,10 @@ perceval github fossasia susi_android --json-line --category issue --sleep-for-r
 perceval git --json-line https://github.com/fossasia/susi_server >> data/susi_server.json
 perceval github fossasia susi_server --json-line --category pull_request --sleep-for-rate -t $GITHUB_TOKEN >> data/susi_server.json
 perceval github fossasia susi_server --json-line --category issue --sleep-for-rate -t $GITHUB_TOKEN >> data/susi_server.json
+# --------- 
+
+# --------- chaoss
+perceval git --json-line https://github.com/chaoss/wg-gmd >> data/wg-gmd.json
+perceval github chaoss wg-gmd --json-line --category pull_request --sleep-for-rate -t $GITHUB_TOKEN >> data/wg-gmd.json
+perceval github chaoss wg-gmd --json-line --category issue --sleep-for-rate -t $GITHUB_TOKEN >> data/wg-gmd.json
 # --------- 

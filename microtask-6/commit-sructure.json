@@ -1,69 +1,72 @@
-{
+{  
    "backend_name":"Git",
    "backend_version":"0.10.2",
    "category":"commit",
-   "data":{
-      "Author":"Honza Kral <honza.kral@gmail.com>",
-      "AuthorDate":"Wed May 1 21:55:44 2013 +0200",
-      "Commit":"Honza Kral <honza.kral@gmail.com>",
-      "CommitDate":"Wed May 1 21:55:44 2013 +0200",
-      "commit":"71daa6ef14186f9fa9715eacddd4e8c43e3ae392",
-      "files":[
-         {
-            "action":"A",
-            "added":"46",
-            "file":"elasticsearch/connection.py",
-            "indexes":[
-               "0000000",
-               "71845ed"
+   "data":{  
+      "Author":"Venu Vardhan Reddy Tekula <venuvardhanreddytekula8@gmail.com>",
+      "AuthorDate":"Sun Mar 24 10:26:22 2019 +0530",
+      "Commit":"Jesus M. Gonzalez-Barahona <jgb@gsyc.es>",
+      "CommitDate":"Sun Mar 24 23:45:36 2019 +0100",
+      "Signed-off-by":[  
+         "Venu Vardhan Reddy Tekula <venuvardhanreddytekula8@gmail.com>"
+      ],
+      "commit":"a8e1656f4b8751c7fc2a21be62a90721cfd9c8cf",
+      "files":[  
+         {  
+            "action":"M",
+            "added":"5",
+            "file":"focus_areas/code_development.md",
+            "indexes":[  
+               "e1114b3",
+               "4456c78"
             ],
-            "modes":[
-               "000000",
+            "modes":[  
+               "100644",
                "100644"
             ],
-            "removed":"0"
+            "removed":"5"
          },
-         {
-            "action":"A",
-            "added":"15",
-            "file":"elasticsearch/exceptions.py",
-            "indexes":[
-               "0000000",
-               "9da7c71"
+         {  
+            "action":"M",
+            "added":"3",
+            "file":"focus_areas/community_growth.md",
+            "indexes":[  
+               "fa31c6d",
+               "f8f04b0"
             ],
-            "modes":[
-               "000000",
+            "modes":[  
+               "100644",
                "100644"
             ],
-            "removed":"0"
+            "removed":"3"
          },
-         {
-            "action":"A",
-            "added":"53",
-            "file":"test_elasticsearch/test_connection.py",
-            "indexes":[
-               "0000000",
-               "d25faba"
+         {  
+            "action":"M",
+            "added":"3",
+            "file":"focus_areas/templates/question_template.md",
+            "indexes":[  
+               "5097613",
+               "5c5c68a"
             ],
-            "modes":[
-               "000000",
+            "modes":[  
+               "100644",
                "100644"
             ],
-            "removed":"0"
+            "removed":"3"
          }
       ],
-      "message":"RequestsHttpConnection class handling the actual http communication",
-      "parents":[
-         "af1891c7ce9af8e3ccd98cb4467078c6a3822b2f"
+      "message":"improvements in the focus_area directory\n\nSigned-off-by: Venu Vardhan Reddy Tekula <venuvardhanreddytekula8@gmail.com>",
+      "parents":[  
+         "839315f1fd6d53600713d81a6c3c232ec398dc0d"
       ],
-      "refs":[
+      "refs":[  
 
       ]
    },
-   "origin":"https://github.com/elastic/elasticsearch-py",
+   "origin":"https://github.com/chaoss/wg-gmd",
    "perceval_version":"0.12.5",
-   "tag":"https://github.com/elastic/elasticsearch-py",
-   "timestamp":1551817991.389233,
-   "updated_on":1367438144.0,
-   "uuid":"d484092a485568611ab48bc211af13518cddd5a7"
+   "tag":"https://github.com/chaoss/wg-gmd",
+   "timestamp":1554955328.459356,
+   "updated_on":1553467536.0,
+   "uuid":"de412be20564abaa96ece8badaf1be05a95a89ce"
 }
