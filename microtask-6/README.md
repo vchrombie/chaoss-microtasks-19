@@ -2,10 +2,10 @@
 
 Perform any other analysis you may find interesting, based on the Perceval data you collected.
 
-The metrics which are yet to be implemented can be found in [focus_areas](https://github.com/chaoss/wg-gmd/blob/master/focus_areas/) folder. The implementation-pending metrics are to be implemented and to be pushed to implem[entations](https://github.com/chaoss/wg-gmd/blob/master/implementations/) folder. The implemented metrics should be documented well in the [metrics](https://github.com/chaoss/wg-gmd/blob/master/metrics) folder.
+Ananlysis on PR data: [microtask-6-PR.ipynb](microtask-6-PR.ipynb)
+Ananlysis on Issue data: [microtask-6-Issue.ipynb](microtask-6-Issue.ipynb)
+Ananlysis on Commit data: [microtask-6-PR.ipynb](microtask-6-Commit.ipynb)
 
-
-The metrics are currently in three categories, [code_development](https://github.com/chaoss/wg-gmd/blob/master/focus_areas/code_development.md), [community_growth](https://github.com/chaoss/wg-gmd/blob/master/focus_areas/community_growth.md) and [issue_resolution](https://github.com/chaoss/wg-gmd/blob/master/focus_areas/issue_resolution.md). 
-
-### Code_Development
-
+I have added structures of the [commit](commit-structure.json), [issue](issue-structure.json), 
+[pull_request](pr-structure.json) data in this folder so that I can use it for explaining the 
+implementation of the metrics in [sample-implementation.md](sample-implementation.md).
