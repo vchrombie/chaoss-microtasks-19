@@ -3,7 +3,9 @@
 Perform any other analysis you may find interesting, based on the Perceval data you collected.
 
 Ananlysis on PR data: [microtask-6-PR.ipynb](microtask-6-PR.ipynb)
+
 Ananlysis on Issue data: [microtask-6-Issue.ipynb](microtask-6-Issue.ipynb)
+
 Ananlysis on Commit data: [microtask-6-PR.ipynb](microtask-6-Commit.ipynb)
 
 I have added structures of the [commit](commit-structure.json), [issue](issue-structure.json), 
