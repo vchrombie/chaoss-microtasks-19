@@ -29,7 +29,7 @@ As it is mentioned to take a FOSS organization which meets the requirements (**r
 - [x] [microtask-3](microtask-3/)
 - [x] [microtask-4](microtask-4/)
 - [x] [microtask-5](microtask-5/)
-- [ ] [microtask-6](microtask-6/)
+- [x] [microtask-6](microtask-6/)
 > optional
 - [x] [microtask-7](microtask-7/)
 - [x] [microtask-8](microtask-8/)
